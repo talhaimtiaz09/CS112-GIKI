@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
+// this is a change in file to check on git hub
 size_t Mystrlen(const char *s)
 {
     size_t len = 0;
